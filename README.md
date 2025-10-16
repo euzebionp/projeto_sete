@@ -62,7 +62,7 @@ Atualizações: Verifique periodicamente se há versões atualizadas dos arquivo
 Problemas Comuns:
 Se o download falhar, tente usar um gerenciador de downloads ou verifique sua conexão.
 Para usuários em ambientes corporativos, certifique-se de que firewalls não bloqueiem os links.
-Alternativas: Se preferir, use ferramentas como Git para clonar o repositório: git clone https://github.com/seu-usuario/nome-do-projeto.git.
+Alternativas: Se preferir, use ferramentas como Git para clonar o repositório: git clone https://github.com/euzebionp/projeto_sete.git
 Contribuição e Suporte
 Se você encontrar problemas com os downloads ou quiser contribuir com melhorias (ex.: adicionar mais links ou instruções), sinta-se à vontade para:
 
